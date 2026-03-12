@@ -1,10 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="J1-Hits" tvg-name="J1-Hits" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-hits.png" group-title="Anime", J1 Hits
+#EXTINF:-1 tvg-id="J1 Radio Hits - Japan - Tokyo" tvg-name="J1-Hits" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-hits.png" group-title="Anime, radio-world.fm", J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS/
 
-#EXTINF:-1 tvg-id="J1-Xtra" tvg-name="J1-Xtra" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-xtra.png" group-title="Anime", J1 Xtra
-https://jenny.torontocast.com:2000/stream/J1XTRA
+#EXTINF:-1 tvg-id="J1 Radio Extra - Japan - Tokyo" tvg-name="J1-Extra" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-xtra.png" group-title="Anime, radio-world.fm", J1 Extra
+#https://jenny.torontocast.com:2000/stream/J1XTRA
 
-#EXTINF:-1 tvg-id="J1-Gold" tvg-name="J1-Gold" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-gold.png" group-title="Anime", J1 Gold
+#EXTINF:-1 tvg-id="J1 Radio Gold - Japan - Tokyo" tvg-name="J1-Gold" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-gold.png" group-title="Anime, radio-world.fm", J1 Gold
 https://jenny.torontocast.com:2000/stream/J1GOLD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
