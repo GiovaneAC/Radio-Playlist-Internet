@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="J1 Radio Hits - Japan - Tokyo" tvg-name="J1-Hits" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-hits.png" group-title="Anime, radio-world.fm", J1 Hits
+#EXTINF:-1 tvg-id="J1 Radio Hits - Japan - Tokyo" tvg-name="J1 Hits" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-hits.png" group-title="JPop; radio-world.fm", J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS/
 
-#EXTINF:-1 tvg-id="J1 Radio Extra - Japan - Tokyo" tvg-name="J1-Extra" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-xtra.png" group-title="Anime, radio-world.fm", J1 Extra
+#EXTINF:-1 tvg-id="J1 Radio Extra - Japan - Tokyo" tvg-name="J1 Extra" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-xtra.png" group-title="JPop; radio-world.fm", J1 Extra
 #https://jenny.torontocast.com:2000/stream/J1XTRA
 
-#EXTINF:-1 tvg-id="J1 Radio Gold - Japan - Tokyo" tvg-name="J1-Gold" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-gold.png" group-title="Anime, radio-world.fm", J1 Gold
+#EXTINF:-1 tvg-id="J1 Radio Gold - Japan - Tokyo" tvg-name="J1 Gold" tvg-logo="https://raw.githubusercontent.com/GiovaneAC/Radio-Playlist-Internet/refs/heads/main/radio-logos/anime-jpop/j1-gold.png" group-title="JPop; radio-world.fm", J1 Gold
 https://jenny.torontocast.com:2000/stream/J1GOLD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="Listen.moe - Japan - Tokyo" tvg-name="Listen Moe" tvg-logo="" group-title="JPop; radio-world.fm", Listen Moe
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="r/a/dio Japan Osaka" tvg-name="r/a/dio" tvg-logo="" group-title="JPop; radio-world.fm", r-a-dio
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="RadiCro Japan Kobe" tvg-name="RadiCro" tvg-logo="" group-title="JPop; radio-world.fm", RadiCro
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="Radio Eigekai Indies - Japan - Tokyo" tvg-name="Radio Eigekai Indies" tvg-logo="" group-title="JPop; radio-world.fm", Radio Eigekai Indies
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="Shonan Beach FM 78.9 湘南ビーチ - Japan - Hayama" tvg-name="Shonan Beach FM" tvg-logo="" group-title="JPop; radio-world.fm", Shonan Beach FM
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="Tannan FM 79.1 - Japan - Sabae" tvg-name="Tannan FM" tvg-logo="" group-title="JPop; radio-world.fm", Tannan FM
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-id="WREP Live - Japan - Tokyo" tvg-name="Wrep Live" tvg-logo="" group-title="JPop; radio-world.fm", Wrep Live
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
